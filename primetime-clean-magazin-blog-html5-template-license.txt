@@ -1,6 +1,8 @@
 LICENSE CERTIFICATE : Envato Market Item
 ==============================================
 2005
+//for command line git tutorial
+//local ediit
 This document certifies the purchase of:
 ONE REGULAR LICENSE
 as defined in the standard terms and conditions on Envato Market.
